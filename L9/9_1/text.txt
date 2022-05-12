@@ -1,0 +1,2 @@
+this is test text file
+for thread number 3
